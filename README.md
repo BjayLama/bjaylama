@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, React Native, Redux**
 
-- 👨‍💻 All of my projects are available at [https://bjaylama.github.io/travellerThoughts/](https://bjaylama.github.io/travellerThoughts/)
+- 👨‍💻 All of my projects are available at [https://bjaylama.github.io/portfolio/](https://bjaylama.github.io/portfolio/)
 
 - 📫 How to reach me **bjaylama.9800@gmail.com**
 
