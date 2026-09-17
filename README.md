@@ -9,8 +9,6 @@
 
 - 🎨 3 years of web design behind me, which shows up in how closely my builds match the design
 
-- 🛠️ Recent work: multi-step **checkout, payment, payout and KYC** flows, shared React components, and custom WordPress themes
-
 - 🌱 Currently going deeper into **Next.js, TypeScript and state management**
 
 - 👨‍💻 More of my work: [https://bjaylama.github.io/portfolio/](https://bjaylama.github.io/portfolio/)
